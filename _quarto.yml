@@ -1,16 +1,15 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs  # This ensures GitHub Pages can find your files
 
 website:
-  title: "Quarto Template"
+  title: "Interactive Data Visualization with Ipychart"
   navbar:
     right:
-      - href: index.qmd
+      - href: index.qmd  # Ensure correct file reference
         text: Home
-      - href: blog.qmd
-        text: Blog
-
+      - href: PSDV_Exposition.ipynb  # Ensure correct file reference
+        text: PSDV Exposition Website
 
 format:
   html:
@@ -20,7 +19,6 @@ format:
     mainfont: "Roboto"
     code-copy: true
     code-overflow: wrap
-
 
 execute:
   freeze: auto

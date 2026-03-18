@@ -1,5 +1,23 @@
 ---
-title: Quarto Template
+format: html
+execute:
+  freeze: auto
 ---
 
-Quarto template Text!
+# 📊 Interactive Data Visualization with Ipychart: A Python Chart.js Bridge  
+### A Python Bridge to Chart.js  
+
+Welcome to this **interactive data visualization** using **Ipychart**—a powerful bridge between **Python** and **Chart.js** for creating stunning, dynamic visualizations.  
+
+## 🚀 What This PSDV Exposition Covers  
+🔹 **Introduction to Ipychart** – A simple way to create interactive charts in Python  
+🔹 **Data Visualization Techniques** – Learn how to generate bar charts, line graphs, and more
+
+---
+
+## **Let's Dive Deep In It**  
+👉 Click here to open the **[PSDV Exposition Website](PSDV_Exposition.ipynb)** and see the complete project:  
+
+
+
+---
